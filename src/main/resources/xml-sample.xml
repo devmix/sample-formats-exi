@@ -1,0 +1,5 @@
+<sensor>
+    <id>device-001</id>
+    <temperature unit="C">24.5</temperature>
+    <timestamp>2026-03-26T10:00:00Z</timestamp>
+</sensor>
